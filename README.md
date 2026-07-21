@@ -1,3 +1,5 @@
+An all-in-one desktop productivity assistant built with C++ and the ICB GUI Framework.
+
 # 🚀 NexusAssistant
 
 NexusAssistant is a desktop productivity assistant developed in **C++** using **Visual Studio** and the **ICB GUI Framework**.
