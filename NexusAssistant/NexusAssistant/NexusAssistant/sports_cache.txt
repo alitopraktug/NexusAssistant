@@ -1,0 +1,20 @@
+World Cup 2026 Sports Panel
+Source: ESPN scoreboard via WinHTTP
+
+Played World Cup Games
+No played games found.
+
+Fixed Played Turkiye Game
+Australia 2-0 Turkiye
+
+Random Upcoming World Cup Games
+A. Diallo | 2026-06-21T00:00Z
+CUW @ ECU | 2026-06-21T00:00Z
+L. Comenencia
+SWE @ NED | 2026-06-20T17:00Z
+
+Fixed Upcoming Turkiye Game
+Turkiye vs Paraguay
+
+Nexus says:
+Sports data fetched and cached in sports_cache.txt.

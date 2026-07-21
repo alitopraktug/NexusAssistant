@@ -1,0 +1,16 @@
+Adana Weather / Republic of Türkiye
+Source: Open-Meteo via WinHTTP
+
+Current Weather
+Temperature: 24.4 C
+Humidity: 87.0%
+Wind Speed: 3.7 km/h
+Condition: Partly cloudy
+
+3-Day Forecast
+2026-06-24  Max 34.3 C  Min 23.5 C  Rain 0%
+2026-06-25  Max 33.3 C  Min 23.7 C  Rain 0%
+2026-06-26  Max 33.8 C  Min 23.8 C  Rain 0%
+
+Nexus says:
+Weather looks manageable today.

@@ -1,0 +1,3 @@
+20.06.2026  17:08|income|500|Harclik
+20.06.2026  17:08|expense|400|Yemek
+20.06.2026  17:08|income|3000|Burs

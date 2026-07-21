@@ -1,0 +1,4 @@
+username=Efe Bora
+city=Adana
+timeformat=24
+weightunit=kg
