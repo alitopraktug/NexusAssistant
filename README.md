@@ -76,7 +76,7 @@ It integrates multiple independent utility modules into a single desktop applica
 
 **Ali Toprak Tuğtekin**
 
-Computer Engineering Student
+Computer Engineer
 
 GitHub: https://github.com/alitopraktug
 
